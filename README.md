@@ -1,6 +1,7 @@
 # opencv-ios-framework
 
-# opencv2.framework.zip 为正常框架，opencv2-custom.framework.zip 是去除了与BaiduMapKit相同的.o文件，并且重新生成的框架，请自行选择
+`opencv2.framework.zip` 为正常框架
+`opencv2-custom.framework.zip` 是去除了与`BaiduMapKit相同的.o文件`，并且重新生成的框架，请自行选择
 
 [opencv2.framework.zip(4.1.0)](https://github.com/Aliveing/opencv-ios-framework/raw/master/opencv2.framework.zip)
 [opencv2-custom.framework.zip(4.1.0)](https://github.com/Aliveing/opencv-ios-framework/raw/master/opencv2-custom.framework.zip)
