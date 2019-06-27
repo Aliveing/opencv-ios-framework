@@ -5,9 +5,10 @@
 `opencv2-custom.framework.zip` 是去除了与`BaiduMapKit相同的.o文件`，并且重新生成的框架，请自行选择
 
 [opencv2.framework.zip(4.1.0)](https://github.com/Aliveing/opencv-ios-framework/raw/master/opencv2.framework.zip)
+
 [opencv2-custom.framework.zip(4.1.0)](https://github.com/Aliveing/opencv-ios-framework/raw/master/opencv2-custom.framework.zip)
 
-# 关于去除命令：
+## 关于去除命令：
 ```shell
     cd opencv2.framework/Versions/A
     lipo -info opencv2 # 查看支持的CPU架构
